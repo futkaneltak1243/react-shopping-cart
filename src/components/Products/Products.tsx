@@ -1,16 +1,22 @@
 import SearchBar from "./SearchBar"
+import Filters from "./Filters"
+import Product from "./Product"
 
 const SearchFilters = () => {
     return (
-        <div className="flex">
+        <div className="flex items-center w-full justify-center">
             <SearchBar />
+            <Filters />
         </div>
     )
 }
 
 const Products = () => {
     return (
-        <SearchFilters />
+        <div className="mt-[58px] ">
+            <SearchFilters />
+            <Product />
+        </div>
     )
 }
 
