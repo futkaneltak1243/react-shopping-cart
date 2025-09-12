@@ -1,0 +1,473 @@
+[
+    {
+        "id": 1,
+        "name": "Red Summer Dress",
+        "description": "This is nice clothes to wear in a sunny day",
+        "price": 29.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Blue T-Shirt",
+        "description": "Comfortable shirt for everyday wear",
+        "price": 19.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Green Skirt",
+        "description": "Light skirt perfect for spring",
+        "price": 24.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Black Jeans",
+        "description": "Stylish jeans for casual days",
+        "price": 39.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yellow Blouse",
+        "description": "Bright blouse for sunny afternoons",
+        "price": 22.99,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "female",
+        "image": "women/3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Gray Hoodie",
+        "description": "Cozy hoodie for cold days",
+        "price": 34.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pink Tank Top",
+        "description": "Casual tank top for summer",
+        "price": 14.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/4.jpg"
+    },
+    {
+        "id": 8,
+        "name": "White Polo",
+        "description": "Smart polo shirt for any occasion",
+        "price": 25.99,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/4.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Purple Dress",
+        "description": "Elegant dress for evening events",
+        "price": 49.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Brown Chinos",
+        "description": "Comfortable chinos for work or play",
+        "price": 32.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/5.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Orange Cardigan",
+        "description": "Light cardigan for spring evenings",
+        "price": 27.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/6.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Navy Jacket",
+        "description": "Stylish jacket for cold weather",
+        "price": 59.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/6.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Turquoise Top",
+        "description": "Light top for casual outings",
+        "price": 18.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/7.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Beige Sweater",
+        "description": "Warm sweater for autumn days",
+        "price": 38.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/7.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Floral Dress",
+        "description": "Charming dress for sunny picnics",
+        "price": 44.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/8.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Black T-Shirt",
+        "description": "Simple and classic black tee",
+        "price": 17.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/8.jpg"
+    },
+    {
+        "id": 17,
+        "name": "White Skirt",
+        "description": "Fresh skirt for summer days",
+        "price": 21.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/9.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Green Hoodie",
+        "description": "Comfortable hoodie for everyday wear",
+        "price": 33.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/9.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Blue Blouse",
+        "description": "Light blouse for office or casual",
+        "price": 23.99,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "female",
+        "image": "women/10.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Red Shirt",
+        "description": "Bright shirt for summer outings",
+        "price": 20.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/10.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Lace Top",
+        "description": "Elegant top for evening wear",
+        "price": 29.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/11.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Gray Pants",
+        "description": "Smart casual pants for daily wear",
+        "price": 35.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/11.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Pink Dress",
+        "description": "Charming dress for sunny afternoons",
+        "price": 47.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/12.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Blue Jeans",
+        "description": "Classic jeans for casual wear",
+        "price": 36.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/12.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Yellow Top",
+        "description": "Bright top perfect for summer days",
+        "price": 19.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/13.jpg"
+    },
+    {
+        "id": 26,
+        "name": "White Hoodie",
+        "description": "Comfortable hoodie for cold days",
+        "price": 34.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/13.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Purple Top",
+        "description": "Stylish top for casual wear",
+        "price": 22.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/14.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Brown Jacket",
+        "description": "Warm jacket for autumn days",
+        "price": 59.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/14.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Red Skirt",
+        "description": "Bright skirt for casual outings",
+        "price": 24.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/15.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Black Hoodie",
+        "description": "Classic hoodie for daily wear",
+        "price": 33.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/15.jpg"
+    },
+    {
+        "id": 31,
+        "name": "White Dress",
+        "description": "Light dress for sunny days",
+        "price": 42.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/16.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Green Shirt",
+        "description": "Casual shirt for summer wear",
+        "price": 21.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/16.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Blue Top",
+        "description": "Light top for office or casual",
+        "price": 23.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "gender": "female",
+        "image": "women/17.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Gray Hoodie",
+        "description": "Cozy hoodie for cold days",
+        "price": 34.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/17.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Pink Skirt",
+        "description": "Charming skirt for summer days",
+        "price": 26.99,
+        "sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "gender": "female",
+        "image": "women/18.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Blue Jacket",
+        "description": "Stylish jacket for cold weather",
+        "price": 59.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "gender": "male",
+        "image": "men/18.jpg"
+    }
+]
