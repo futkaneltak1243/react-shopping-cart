@@ -9,6 +9,7 @@ function App() {
       <main>
         <Hero></Hero>
         <Cart></Cart>
+
         <Products></Products>
       </main>
 
