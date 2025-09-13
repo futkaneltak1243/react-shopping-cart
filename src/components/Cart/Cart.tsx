@@ -77,7 +77,7 @@ const CartProducts = ({ opened, handleClose }: { opened: boolean; handleClose: (
         <div
             className={
                 "sm:w-[440px] h-screen flex flex-col  fixed top-0 right-0 bg-[#FBF0F0] z-50 shadow-[-4px_0px_5px_0px_rgba(0,0,0,0.25)] transform transition-transform duration-300 " +
-                (opened ? "sm:translate-x-0 w-full" : "sm:translate-x-[440px] hidden")
+                (opened ? "translate-x-0 w-full" : "sm:translate-x-[440px] translate-x-full")
             }
         >
             <CloseButton handleClose={handleClose} />

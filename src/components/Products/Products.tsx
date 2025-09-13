@@ -1,7 +1,7 @@
 import SearchBar from "./SearchBar"
 import Filters from "./Filters"
 import Product from "./Product"
-import data from "../data/products.json"
+import data from "../../data/products.json"
 
 const SearchFilters = () => {
     return (
