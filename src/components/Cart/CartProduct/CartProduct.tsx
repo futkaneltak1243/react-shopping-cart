@@ -39,7 +39,8 @@ const CartProduct = ({ cartProduct }: { cartProduct: ICartProduct }) => {
                     <button className={"w-[25px] h-[25px] rounded-full  flex items-center justify-center cursor-pointer  " +
                         (isOne ? "bg-gray-200" : "bg-[#BAB0B0] hover:bg-gray-400")
                     }
-                        onClick={() => decreaseProductQuantityByOne(cartProduct)}>
+                        onClick={() => decreaseProductQuantityByOne(cartProduct)}
+                        disabled={isOne}>
                         <Minus className={"w-[13px] h-[13px] " + (isOne ? "text-gray-300" : "text-black")} />
                     </button>
                 </div>
