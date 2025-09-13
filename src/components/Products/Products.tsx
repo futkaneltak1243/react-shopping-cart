@@ -23,7 +23,7 @@ const Products = () => {
             <SearchFilters />
             <div className="flex justify-center items-center mt-[74px]">
                 <div className="grid grid-cols-2 xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4">
-                    {filteredProducts.map(product => <Product key={product.id} title={product.name} description={product.description} price={product.price} image={product.image}></Product>)}
+                    {filteredProducts.map(product => <Product key={product.id} product={product}></Product>)}
                 </div>
             </div>
 
