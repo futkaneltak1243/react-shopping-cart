@@ -1,7 +1,7 @@
 import { useProductsContext } from "./ProductsContextProvider"
 import data from "../../data/products.json"
 import { useCallback, useMemo } from "react";
-import type { Size, Gender } from "./ProductsContextProvider"
+import type { Size, Gender } from "../../models"
 
 export const useProducts = () => {
     const {
@@ -38,7 +38,9 @@ export const useProducts = () => {
         fetchProducts,
         filteredProducts,
         filterProductsBySearch,
+        sizeFilter,
         filterProductsBySize,
+        genderFilter,
         filterProductsByGender,
     }
 }

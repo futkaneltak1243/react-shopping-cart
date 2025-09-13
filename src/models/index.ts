@@ -7,3 +7,11 @@ export interface IProduct {
     gender: string,
     image: string,
 }
+
+export interface ICartProduct extends IProduct {
+    quantity: number;
+}
+
+export type Size = "" | "XS" | "S" | "M" | "L" | "XL"
+
+export type Gender = "" | "male" | "female"

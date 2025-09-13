@@ -1,9 +1,8 @@
 import { createContext, useContext, useState } from "react";
 import type { FC, ReactNode } from "react";
-import type { IProduct } from "../../models";
+import type { IProduct, Size, Gender } from "../../models";
 
-export type Size = "" | "XS" | "S" | "M" | "L" | "XL"
-export type Gender = "" | "male" | "female"
+
 
 export interface IProductsContext {
     products: IProduct[];
